@@ -1,0 +1,41 @@
+body {
+  text-align: center;
+}
+.Logo {
+  max-width: 100%;
+  width: 150%;
+  height: 20%;
+}
+
+.DivImages {
+  margin-top: 10%;
+}
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+  max-width: 100%;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+.centered {
+  position: absolute;
+  top: 84%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
+.btn {
+  border: none;
+}
+.hide {
+  display: none;
+}
+#prices {
+  margin-top: 3%;
+}
+.btn-outline-dark {
+  color: #c5c5c5;
+}
